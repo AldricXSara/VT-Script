@@ -9,7 +9,7 @@ Please note that this is not a professional/enterprise application and is meant 
 These dependencies are also required to run the MacOS release binaries.
 
 ### Python 3
--instal Python 3 (3.11) from `https://www.python.org
+-instal Python 3 (3.11) from `https://www.python.org`
 
 The following are the Python dependencies for this project:
 
